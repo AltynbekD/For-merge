@@ -425,8 +425,18 @@
   [hidden] {
     display: none;
   }
-
+ body {
+   background: bisque;
+ }
   ul li {
       list-style: none;
       display: inline-block;
+  }
+  h1 {
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  p {
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
   }
